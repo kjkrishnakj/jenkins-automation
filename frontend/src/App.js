@@ -23,7 +23,7 @@ function App() {
             rel="noopener noreferrer"
             className="bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded-full transition"
           >
-            View Backend(Render)
+            View Backend (Render)
           </a>
         </div>
         <p className="text-sm text-gray-500">Made with ❤️ by Krishna Jaiswal</p>
